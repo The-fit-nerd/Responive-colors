@@ -73,17 +73,23 @@ footer {
 
   #column-3 {
     background-color: #3333ff;
+<<<<<<< HEAD
     width: 100%;
+=======
+>>>>>>> c660babedfa5fd7a94ed62d902b2aadeec669dc7
   }
 
   footer {
     background-color: #0000cc;
   }
   
+<<<<<<< HEAD
   .col-3 {
     width: 50%;
   }
 
+=======
+>>>>>>> c660babedfa5fd7a94ed62d902b2aadeec669dc7
 }
 
 
@@ -95,12 +101,18 @@ footer {
 
   #column-1 {
     background-color: #009900;
+<<<<<<< HEAD
     width: 50%;
+=======
+>>>>>>> c660babedfa5fd7a94ed62d902b2aadeec669dc7
   }
 
   #column-2 {
     background-color: #cc8800;
+<<<<<<< HEAD
     width: 50%;
+=======
+>>>>>>> c660babedfa5fd7a94ed62d902b2aadeec669dc7
   }
 
   #column-3 {
@@ -110,9 +122,12 @@ footer {
   footer {
     background-color: #1a1100;
   }
+<<<<<<< HEAD
 
   .col-3 {
     width: 33.3%;
   }
+=======
+>>>>>>> c660babedfa5fd7a94ed62d902b2aadeec669dc7
    
 }
